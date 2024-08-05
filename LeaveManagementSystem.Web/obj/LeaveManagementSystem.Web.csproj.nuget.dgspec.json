@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Calculator\\source\\repos\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj": {}
+    "C:\\Users\\Calculator\\Source\\Repos\\Project\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Calculator\\source\\repos\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj": {
+    "C:\\Users\\Calculator\\Source\\Repos\\Project\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Calculator\\source\\repos\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Calculator\\Source\\Repos\\Project\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
         "projectName": "LeaveManagementSystem.Web",
-        "projectPath": "C:\\Users\\Calculator\\source\\repos\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
+        "projectPath": "C:\\Users\\Calculator\\Source\\Repos\\Project\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
         "packagesPath": "C:\\Users\\Calculator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Calculator\\source\\repos\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web\\obj\\",
+        "outputPath": "C:\\Users\\Calculator\\Source\\Repos\\Project\\LeaveManagementSystem.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
